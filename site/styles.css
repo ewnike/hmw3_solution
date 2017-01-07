@@ -1,6 +1,6 @@
 section.container-fluid {
 	border: 1px solid black;
-	background-color:  #ffbe20;
+	background-color:  lightyellow;
 	height: 1000px;
 	margin:30px;
 }
@@ -11,7 +11,7 @@ body {
 
 @media (max-width: 767px) {
   .colored {
-	background-color: lightgreen;
+	background-color: orange;
   }
 }
 
